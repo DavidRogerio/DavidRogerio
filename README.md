@@ -15,8 +15,7 @@ You can reach me at david2015939@gmail.com
 <br />
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidRogerio&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidRogerio&layout=compact&cache_seconds=1))
 
 
 [github]:  https://github.com/DavidRogerio
