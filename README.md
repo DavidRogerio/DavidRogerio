@@ -9,7 +9,6 @@ You can reach me at david2015939@gmail.com
 
 <img align="left" alt="Python" height="48px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
 <img align="left" alt="C" height="48px" src="https://upload.wikimedia.org/wikipedia/commons/archive/3/35/20220802133510%21The_C_Programming_Language_logo.svg" />
-<img align="left" alt="Assembly" height="48px" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Nasm_logo.svg" />
 <img align="left" alt="Java" height="48px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" />
 <img align="left" alt="PostgreSQL" height="48px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
 
